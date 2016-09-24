@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Tomvictor/mqtt-Node-App/issues"
   },
-  "homepage": "https://github.com/Tomvictor/mqtt-Node-App#readme"
+  "homepage": "https://github.com/Tomvictor/mqtt-Node-App#readme",
+  "dependencies": {
+    "mosca": "^2.1.0"
+  }
 }
