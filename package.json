@@ -1,0 +1,26 @@
+{
+  "name": "mqtt-node-app",
+  "version": "0.0.0",
+  "description": "node to impliment mqtt communication, for IoT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomvictor/mqtt-Node-App.git"
+  },
+  "keywords": [
+    "mqtt",
+    "node",
+    "js",
+    "tomvictor",
+    "buildfromzero.com"
+  ],
+  "author": "Tomvictor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tomvictor/mqtt-Node-App/issues"
+  },
+  "homepage": "https://github.com/Tomvictor/mqtt-Node-App#readme"
+}
