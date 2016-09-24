@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Tomvictor/mqtt-Node-App#readme",
   "dependencies": {
-    "mosca": "^2.1.0"
+    "mosca": "^2.1.0",
+    "mqtt": "^2.0.0"
   }
 }
